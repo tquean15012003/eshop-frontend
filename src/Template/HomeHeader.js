@@ -23,7 +23,7 @@ export default function HomepageHeader() {
                             <Text onClick={() => {
                                 navigate("/", { replace: false })
                             }} cursor="pointer" fontSize="5xl" fontWeight="bold" color="black"
-                            >Tuan Anh <span style={{ color: "red" }}>E-shop</span>
+                            >Harry <span style={{ color: "red" }}>E-shop</span>
                             </Text>
                         </Box>
                         <Box>
@@ -59,7 +59,7 @@ export default function HomepageHeader() {
                             <Text onClick={() => {
                                 navigate("/", { replace: false })
                             }} cursor="pointer" fontSize="5xl" fontWeight="bold" color="black"
-                            >Tuan Anh <span style={{ color: "red" }}>E-shop</span>
+                            >Harry <span style={{ color: "red" }}>E-shop</span>
                             </Text>
                         </Box>
                         <Box>
